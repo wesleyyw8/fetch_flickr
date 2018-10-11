@@ -4,7 +4,7 @@
   "description": "",
   "main": "logic.js",
   "scripts": {
-    "start": "http-server --cors"
+    "start": "http-server"
   },
   "author": "",
   "license": "ISC",
